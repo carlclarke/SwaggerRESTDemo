@@ -8,4 +8,5 @@ OpenAPI provides vendor neutral description format for an API. The description c
 This demonstration has been intentionally kept simple, there is sparse error and exception handling, no database constraints, no HATEOAS (Hypermedia as the Engine of Application State) and no Code on Demand
 
 PowerPoint resentation @ https://github.com/carlclarke/SwaggerRESTDemo/blob/master/OpenAPI%20(Swagger).pptx
+
 REST Cheat Sheet @ https://github.com/carlclarke/SwaggerRESTDemo/blob/master/REST%20Cheat%20Sheet.docx
